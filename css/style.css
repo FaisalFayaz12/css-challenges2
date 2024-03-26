@@ -4,7 +4,8 @@
  
  img{
      border-radius: 50%;
-     width: 400px;s
+     width: 400px;
+     display:grid;
  }
  body{
      text-align: center;
