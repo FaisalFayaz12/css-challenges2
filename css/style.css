@@ -5,13 +5,11 @@
  img{
      border-radius: 50%;
      width: 400px;
-     display:grid;
  }
  body{
      text-align: center;
      font-family: 'Roboto';font-size: 22px;
      font-size: 21px;
-     display:grid;
  
  }
  h1{
